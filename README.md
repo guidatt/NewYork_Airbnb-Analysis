@@ -5,7 +5,7 @@
 
 ## 📌 About the project
 
-This study aims to conduct an exploratory analysis of Airbnb data for the city of New York, made available on Kaggle, to understand possible trends, patterns, and useful information regarding the application. It can be useful for those considering visiting one of the most famous cities on the planet.
+This study aims to conduct an exploratory analysis of Airbnb data for the city of New York to understand possible trends, patterns, and useful information regarding the application. It can be useful for those considering visiting one of the most famous cities on the planet.
 
 The analysis was made with SQL (Structured Query Language), one of the most popular languages for analyzing, managing, querying, and manipulating relational databases.
 
