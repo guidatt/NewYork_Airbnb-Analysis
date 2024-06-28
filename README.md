@@ -1,6 +1,6 @@
 # Analyzing New York Airbnb Data With SQL
 
-![image]( )
+![image](newyork.jpg)
 
 
 ## 📌 About the project
